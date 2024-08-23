@@ -8,4 +8,4 @@ Meu nome é Thayane
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-![](https://www.alura.com.br)
+![](https://tenor.com/bKO9Z.gif)
